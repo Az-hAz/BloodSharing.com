@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892476044922",
+    "project_id": "bloodsharing-2715f",
+    "storage_bucket": "bloodsharing-2715f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892476044922:android:b78da94609714e11652dc3",
+        "android_client_info": {
+          "package_name": "com.example.bloodsharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHbAvN-trRsWClPWKSAzOncP5zw4lo-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
